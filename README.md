@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **contact@noshsyed.com**
 
-- ⚡ Fun fact **I get really energetic sometimes and do work really fast but then make a couple of errors. Ok, maybe a lot of errors.**
+- ⚡ Fun fact **Pineapple's dont belong on pizza. Sorry not sorry.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
