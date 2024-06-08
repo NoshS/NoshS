@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **contact@noshsyed.com**
 
-- ⚡ Fun fact **Pineapple's dont belong on pizza. Sorry not sorry.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
