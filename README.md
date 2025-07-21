@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nosh</h1>
-<h3 align="center">A Web Developer</h3>
+<h3 align="center">A Software Developer</h3>
 
-- 🌱 I’m currently learning **Everything web development.**
 
 - 👨‍💻 All of my projects are available at [github.com/noshs](github.com/noshs)
 
